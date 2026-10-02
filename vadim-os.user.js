@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         VADIM - OS (v4.0 Mega Release)
+// @name         VADIM - OS (v5.0 Ultra Release)
 // @namespace    http://tampermonkey.net
-// @version      4.0
+// @version      5.0
 // @description  Мини-браузер с вкладками, заметками, темами, маскировкой и умной адресной строкой
 // @match        *://*.mosreg.ru/*
 // @match        *://*.dnevnik.ru/*
