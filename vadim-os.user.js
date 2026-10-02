@@ -2,7 +2,7 @@
 // @name         VADIM - OS (v5.0 Ultra Release)
 // @namespace    http://tampermonkey.net
 // @version      5.0
-// @description  Мини-браузер с вкладками, заметками, темами, маскировкой и умной адресной строкой
+// @description  Супер-сборка: Вкладки, Заметки, Темы, Таймер, Ночной режим сайтов, Масштаб, Озвучка, Скачивание заметок, Рандомайзер и Zen-режим
 // @match        *://*.mosreg.ru/*
 // @match        *://*.dnevnik.ru/*
 // @grant        none
